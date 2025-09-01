@@ -11,3 +11,4 @@
 
 
 
+Discussion board: https://github.com/orgs/dotnet-felickz/discussions
