@@ -11,5 +11,5 @@
 
 
 [![WATCH: Security-First .NET](https://img.youtube.com/vi/nxUz7OQO3n8/0.jpg)](https://www.youtube.com/watch?v=nxUz7OQO3n8)
-
-Discussion board: https://github.com/orgs/dotnet-felickz/discussions
+- Watch on youtube: [Security-First .NET](https://www.youtube.com/watch?v=nxUz7OQO3n8&t)
+- Discussion board: https://github.com/orgs/dotnet-felickz/discussions
