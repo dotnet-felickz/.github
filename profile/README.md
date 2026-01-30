@@ -9,6 +9,6 @@
 
 <img width="200" height="200" alt="GitHub_Invertocat_Light" src="https://github.com/user-attachments/assets/671299c9-5fc3-4a2a-92b8-1391d4c7355d" /> ![pricing-icon-c76a3c424274](https://github.com/user-attachments/assets/87e0fb79-da7f-441c-8e77-b8799bfc4808)
 
-
+https://www.youtube.com/watch?v=nxUz7OQO3n8
 
 Discussion board: https://github.com/orgs/dotnet-felickz/discussions
